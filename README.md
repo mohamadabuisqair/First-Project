@@ -46,7 +46,7 @@ A full-stack web application that allows users to track their daily expenses, ca
 ## Screenshots
 
 ![Desktop View](./Screenshots/Desktop.png)
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](./screenshots/Mobile.png)
 
 ## What was the hardest part?
 
